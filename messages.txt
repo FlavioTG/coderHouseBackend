@@ -1,0 +1,47 @@
+[
+  {
+    "author": "seba@gmail.com",
+    "body": "Hola a todos!",
+    "date": "22/12/2022 16:38:52"
+  },
+  {
+    "author": "leonardo@hotmail.com.ar",
+    "body": "Hola!",
+    "date": "22/12/2022 16:39:06"
+  },
+  {
+    "author": "titi@gmail.com",
+    "body": "Buenasss",
+    "date": "22/12/2022 16:39:12"
+  },
+  {
+    "author": "titi@gmail.com",
+    "body": "Voy a agregar un producto",
+    "date": "22/12/2022 16:39:46"
+  },
+  {
+    "author": "leonardo@hotmail.com.ar",
+    "body": "Recibido!",
+    "date": "22/12/2022 16:40:46"
+  },
+  {
+    "author": "titi@gmail.com",
+    "body": "perfecto gracias",
+    "date": "22/12/2022 16:40:55"
+  },
+  {
+    "author": "leonardo@hotmail.com.ar",
+    "body": "Bueno, chau",
+    "date": "22/12/2022 17:15:53"
+  },
+  {
+    "author": "titi@gmail.co",
+    "body": "hasta pronto!",
+    "date": "22/12/2022 17:16:24"
+  },
+  {
+    "author": "seba@gmail.com",
+    "body": "Nos vemos!",
+    "date": "22/12/2022 17:16:33"
+  }
+]
